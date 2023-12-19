@@ -1,10 +1,10 @@
 # Screenshot for Report Writing
 
 ## Options :
-- **GreenShot**
+- **Greenshot**
 - **Flameshot**
 
-## GreenShot :
+## Greenshot :
 Greenshot is better choice if you're on macOS or Windows OS.
 
 ## Flameshot :
