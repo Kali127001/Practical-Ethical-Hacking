@@ -13,14 +13,14 @@ An external pen test is looking organization's security from the outside. This m
 
 This is the most common type of assessment pen testers do, reasons:
 <li>A lot of organizations dictate that an external network pen test must be performed annually.</li><li>It's tend to be a little bit cheaper than other assessments.</li>
-These pen tests tend to last around 32 to 40 hours, on an average though if you hae a very large engagement, that can go a lot longer. Minimum 8 to 16 hours for small organization. Another 8 to 16 hours for <strong>report writing</strong>.
+These pen tests tend to last around 32 to 40 hours, on an average though if you have a very large engagement, that can go a lot longer. Minimum 8 to 16 hours for small organization. Another 8 to 16 hours for <strong>report writing</strong>.
 </pre>
 
 ### Internal Network Pen Test :
 <pre>
 This is assessing an organization security from the inside of the network. This means we somehow breached the perimeter. Perhaps we sent an phishing email and somebody opened our email, clicked on our link, and now we're inside the network. Now, the methodology for internal penetration test focuses heavily on active directory. If you don't know what active directory attacks are, you absolutely need to learn those to be a <strong>Successful Internal Penetration Tester</strong>. And it's one of those things that majority of the organizations that are out there use. Of the Fortune 500 companies use active directory in their environments. Nearly 99% organizations use active directory environment.
 
-These pen tests tend to last around 32 to 40 hours, on an average though if you hae a very large engagement, that can go a lot longer. Minimum 16 to 24 hours for very small organization not less than this. Another 8 to 16 hours for <strong>report writing</strong>.
+These pen tests tend to last around 32 to 40 hours, on an average though if you have a very large engagement, that can go a lot longer. Minimum 16 to 24 hours for very small organization not less than this. Another 8 to 16 hours for <strong>report writing</strong>.
 </pre>
 
 ### Web Application Pen Test :
