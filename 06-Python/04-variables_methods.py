@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # variables
 quote = "Everything is fair in love and war!";
 print(quote);
