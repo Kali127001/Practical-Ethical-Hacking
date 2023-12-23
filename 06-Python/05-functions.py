@@ -25,11 +25,4 @@ print(multiply(7, 7));
 def square_root(x):
     print(x ** .5);
 
-square_root(64);
-
-def new_line():
-    print("\n");
-
-new_line();
-
-
+square_root(int(64));
